@@ -1,4 +1,4 @@
-# 🍽️ Zomato Clone
+# 🍽️ Crave Cart
 
 A basic clone of Zomato built using PHP, MySQL, HTML, CSS, and JavaScript.
 
